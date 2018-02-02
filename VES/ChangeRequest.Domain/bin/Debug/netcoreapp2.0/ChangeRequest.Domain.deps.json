@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "e3b52061a9a9395606f302024503d9052fd5fb3c"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ChangeRequest.Domain/1.0.0": {
+        "dependencies": {
+          "MediatR": "4.0.1"
+        },
+        "runtime": {
+          "ChangeRequest.Domain.dll": {}
+        }
+      },
+      "MediatR/4.0.1": {
+        "runtime": {
+          "lib/netstandard1.1/MediatR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChangeRequest.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MediatR/4.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nIgiOuD10aSrariE29T3/NdWKfwqOfyJhuuqdSD6RJa8vvYUxLAsWZ64UwYm7pF7yPIjM36M+3W0hpyPTAj4Gg==",
+      "path": "mediatr/4.0.1",
+      "hashPath": "mediatr.4.0.1.nupkg.sha512"
+    }
+  }
+}

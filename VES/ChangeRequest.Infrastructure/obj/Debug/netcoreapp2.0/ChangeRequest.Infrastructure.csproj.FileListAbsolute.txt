@@ -1,0 +1,11 @@
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Infrastructure\bin\Debug\netcoreapp2.0\ChangeRequest.Infrastructure.deps.json
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Infrastructure\bin\Debug\netcoreapp2.0\ChangeRequest.Infrastructure.dll
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Infrastructure\bin\Debug\netcoreapp2.0\ChangeRequest.Infrastructure.pdb
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Infrastructure\obj\Debug\netcoreapp2.0\ChangeRequest.Infrastructure.csprojResolveAssemblyReference.cache
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Infrastructure\obj\Debug\netcoreapp2.0\ChangeRequest.Infrastructure.csproj.CoreCompileInputs.cache
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Infrastructure\obj\Debug\netcoreapp2.0\ChangeRequest.Infrastructure.AssemblyInfoInputs.cache
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Infrastructure\obj\Debug\netcoreapp2.0\ChangeRequest.Infrastructure.AssemblyInfo.cs
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Infrastructure\obj\Debug\netcoreapp2.0\ChangeRequest.Infrastructure.dll
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Infrastructure\obj\Debug\netcoreapp2.0\ChangeRequest.Infrastructure.pdb
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Infrastructure\bin\Debug\netcoreapp2.0\ChangeRequest.Domain.dll
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Infrastructure\bin\Debug\netcoreapp2.0\ChangeRequest.Domain.pdb

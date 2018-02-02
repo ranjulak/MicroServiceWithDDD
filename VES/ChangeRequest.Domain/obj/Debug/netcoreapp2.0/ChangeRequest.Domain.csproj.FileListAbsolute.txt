@@ -1,0 +1,9 @@
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Domain\bin\Debug\netcoreapp2.0\ChangeRequest.Domain.deps.json
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Domain\bin\Debug\netcoreapp2.0\ChangeRequest.Domain.dll
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Domain\bin\Debug\netcoreapp2.0\ChangeRequest.Domain.pdb
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Domain\obj\Debug\netcoreapp2.0\ChangeRequest.Domain.csprojResolveAssemblyReference.cache
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Domain\obj\Debug\netcoreapp2.0\ChangeRequest.Domain.csproj.CoreCompileInputs.cache
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Domain\obj\Debug\netcoreapp2.0\ChangeRequest.Domain.AssemblyInfoInputs.cache
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Domain\obj\Debug\netcoreapp2.0\ChangeRequest.Domain.AssemblyInfo.cs
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Domain\obj\Debug\netcoreapp2.0\ChangeRequest.Domain.dll
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Domain\obj\Debug\netcoreapp2.0\ChangeRequest.Domain.pdb

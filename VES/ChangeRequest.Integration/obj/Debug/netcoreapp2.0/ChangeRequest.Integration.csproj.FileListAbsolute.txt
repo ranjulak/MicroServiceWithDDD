@@ -1,0 +1,9 @@
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Integration\bin\Debug\netcoreapp2.0\ChangeRequest.Integration.deps.json
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Integration\bin\Debug\netcoreapp2.0\ChangeRequest.Integration.dll
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Integration\bin\Debug\netcoreapp2.0\ChangeRequest.Integration.pdb
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Integration\obj\Debug\netcoreapp2.0\ChangeRequest.Integration.csprojResolveAssemblyReference.cache
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Integration\obj\Debug\netcoreapp2.0\ChangeRequest.Integration.csproj.CoreCompileInputs.cache
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Integration\obj\Debug\netcoreapp2.0\ChangeRequest.Integration.AssemblyInfoInputs.cache
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Integration\obj\Debug\netcoreapp2.0\ChangeRequest.Integration.AssemblyInfo.cs
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Integration\obj\Debug\netcoreapp2.0\ChangeRequest.Integration.dll
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.Integration\obj\Debug\netcoreapp2.0\ChangeRequest.Integration.pdb

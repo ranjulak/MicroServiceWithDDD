@@ -1,0 +1,11 @@
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.API\bin\Debug\netcoreapp1.1\ChangeRequest.API.deps.json
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.API\bin\Debug\netcoreapp1.1\ChangeRequest.API.runtimeconfig.json
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.API\bin\Debug\netcoreapp1.1\ChangeRequest.API.runtimeconfig.dev.json
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.API\bin\Debug\netcoreapp1.1\ChangeRequest.API.dll
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.API\bin\Debug\netcoreapp1.1\ChangeRequest.API.pdb
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.API\obj\Debug\netcoreapp1.1\ChangeRequest.API.csprojResolveAssemblyReference.cache
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.API\obj\Debug\netcoreapp1.1\ChangeRequest.API.csproj.CoreCompileInputs.cache
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.API\obj\Debug\netcoreapp1.1\ChangeRequest.API.AssemblyInfoInputs.cache
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.API\obj\Debug\netcoreapp1.1\ChangeRequest.API.AssemblyInfo.cs
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.API\obj\Debug\netcoreapp1.1\ChangeRequest.API.dll
+c:\users\kottahachchir\Source\repos\VES\ChangeRequest.API\obj\Debug\netcoreapp1.1\ChangeRequest.API.pdb
